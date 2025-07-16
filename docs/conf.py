@@ -6,7 +6,7 @@ sys.path.insert(0, os.path.abspath('.'))
 
 project = 'reppccenter'
 copyright = '2025'
-author = 'Kamtn Jul'
+author = 'Kelly Kol'
 
 release = '1.0'
 
